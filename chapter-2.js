@@ -54,3 +54,5 @@ const list = [
     },
   },
 ];
+
+list[2].next.next.next.next.next.value = "Curt"
